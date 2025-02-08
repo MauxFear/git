@@ -11,7 +11,7 @@
 * [Resources](#resources)
   + [Cheat sheet](#cheatsheet)
   + [Videos](#videos)
-  + [How to get help](#how-to-get-help)
+  + [How to Get Help](#how-to-get-help)
 * [Folder Structure](#folder-structure)
 
 ## Description
@@ -94,7 +94,7 @@ Feel free to use the following as resources:
 - [Git explained in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
 - [Git vs GitHub: What's the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
 
-### How to get help
+### How to Get Help
 #### 1. Gather information about your problem
 - Copy and paste your error message
 - Copy and paste the code that caused the error, and the last few commands leading up to the error
@@ -123,11 +123,6 @@ Feel free to use the following as resources:
 - [The XY problem: A question pitfall that won't get useful answers](https://xyproblem.info/)
 - [How to create a minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example)
 
-#### Getting help: A summary
-<img src="steps_to_ask_for_help.png" width="700">
-
-<hr>
-
 ## Folder Structure
 
 ```
@@ -139,8 +134,7 @@ Feel free to use the following as resources:
 ├── 04_this_cohort
 ├── .gitignore
 ├── LICENSE
-├── README.md
-└── steps_to_ask_for_help.png
+└── README.md
 ```
 
 * **.github**: Contains issue templates and pull request templates for the repository.
@@ -151,4 +145,4 @@ Feel free to use the following as resources:
 * **.gitignore**: Files to exclude from this folder, specified by the Technical Facilitator
 * **LICENSE**: The license for this repository.
 * **README**: This file.
-* **steps_to_ask_for_help.png**: Guide on how to ask for help.
+
